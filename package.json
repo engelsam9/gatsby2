@@ -1,0 +1,27 @@
+{
+  "name": "gatsby2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "gatsby2",
+  "author": "engelsam9",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.12.4",
+    "gatsby-remark-mathjax": "^1.0.0",
+    "gatsby-transformer-remark": "^6.12.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
+  }
+}
